@@ -1,2 +1,2 @@
 # hello-world
-I am a student studying machine learning and data analytics. My goal is to become a data scientist specializing in marketing and business operations efficiency.
+I am a student studying machine learning and data analytics. My goal is to become a data scientist specializing in marketing and business operations efficiency. I have an extensive background in education, having taught music eduation in the classroom for twleve years. I am applying to Georgia Tech to study for my Masters in Analytics in Fall 2018. Leaving the classroom is bittersweet for me, but I am excited to learn new skills as I move into this new industry. 
